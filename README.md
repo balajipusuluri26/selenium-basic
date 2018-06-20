@@ -1,2 +1,2 @@
 # selenium-basic
-Selenium project343
+Selenium project
